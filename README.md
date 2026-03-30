@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Yannick
 
-<!--
-**yannickdavila07/yannickdavila07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend Java em formação
 
-Here are some ideas to get you started:
+Atualmente estudando:
+- Java
+- Spring Boot
+- REST APIs
+- Docker
+- Git/Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Meu objetivo é me tornar desenvolvedor backend e trabalhar com sistemas escaláveis.
+
+---
+
+## 🛠️ Tecnologias
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+LinkedIn:  
+Email:  
