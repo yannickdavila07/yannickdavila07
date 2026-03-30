@@ -1,19 +1,21 @@
-# 👋 Opa tudo bem? eu sou Yannick. Seja bem-vindo ao meu perfil!
+# 👋 Hi there! I'm Yannick. Welcome to my profile!
 
-💻 Desenvolvedor Backend Java em formação
+💻 Java Backend Developer in training
 
-Atualmente estudando:
+I am currently pursuing a **Software Engineering degree** and I am always willing to learn new technologies and improve my development skills.
+
+Currently studying:
 - Java
 - Spring Boot
 - REST APIs
 - Docker
-- Git/Github
+- Git/GitHub
 
-🚀 Meu objetivo é me tornar desenvolvedor backend e trabalhar com sistemas escaláveis.
+🚀 My goal is to become a Backend Developer and work on scalable systems.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" height="55" />
@@ -21,9 +23,10 @@ Atualmente estudando:
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" height="55" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="55" />
 </div>
+
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannickdavila07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
@@ -31,7 +34,10 @@ Atualmente estudando:
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/yannick-d%C3%A1vila-542a16307/
-Email: davilayannick07@gmail.com
+LinkedIn  
+https://www.linkedin.com/in/yannick-d%C3%A1vila-542a16307/
+
+Email  
+davilayannick07@gmail.com
