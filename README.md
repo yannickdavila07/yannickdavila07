@@ -1,4 +1,4 @@
-# 👋 Iae tudo bem? eu sou Yannick. Seja bem-vindo ao meu perfil!
+# 👋 Opa tudo bem? eu sou Yannick. Seja bem-vindo ao meu perfil!
 
 💻 Desenvolvedor Backend Java em formação
 
