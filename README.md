@@ -11,6 +11,10 @@ Currently studying:
 - Docker
 - Git/GitHub
 
+Skills and Competencies:
+
+Java | Spring Boot | REST APIs | Git-Github
+
 🚀 My goal is to become a Backend Developer and work on scalable systems.
 
 ---
