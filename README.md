@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Yannick. Welcome to my profile!
 
-💻 Java Backend Developer in training
+💻 Java Backend Developer
 
 I am currently pursuing a **Software Engineering degree** and I am always willing to learn new technologies and improve my development skills.
 
@@ -10,12 +10,13 @@ Currently studying:
 - REST APIs
 - Docker
 - Git/GitHub
+- PostgreSQL
 
 Skills and Competencies:
 
-Java | Spring Boot | REST APIs | Git-Github
+Java | Spring Boot | REST APIs | Git-Github | PostgreSQL
 
-🚀 My goal is to become a Backend Developer and work on scalable systems.
+🚀 My goal is to become a Senior Backend Developer and work on scalable systems.
 
 ---
 
@@ -28,13 +29,6 @@ Java | Spring Boot | REST APIs | Git-Github
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="55" />
 </div>
 
----
-
-## 📊 Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yannickdavila07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yannickdavila07&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
