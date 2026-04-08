@@ -22,6 +22,8 @@ Java | Spring Boot | REST APIs | Git-Github | PostgreSQL
 
 ## 🛠️ Technologies
 
+My Skills:
+
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" height="55" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Spring-Dark.svg" height="55" />
