@@ -1,8 +1,10 @@
 # 👋 Hi there! I'm Yannick. Welcome to my profile!
 
-💻 Java Backend Developer
+💻 Backend Developer
 
-I am currently pursuing a **Software Engineering degree** and I am always willing to learn new technologies and improve my development skills.
+Sou um desenvolvedor focado no ecossistema Java & Spring Boot, apaixonado por construir sistemas escaláveis e eficientes. Atualmente, estou cursando Engenharia de Software e aprofundando meus conhecimentos na criação de arquiteturas robustas para o Backend.
+
+Minha abordagem de desenvolvimento prioriza a integridade dos dados e a portabilidade do código, o que me levou a dominar ferramentas essenciais de persistência.
 
 Currently studying:
 - Java
@@ -14,7 +16,7 @@ Currently studying:
 
 Skills and Competencies:
 
-Java | Spring Boot | REST APIs | Git-Github | PostgreSQL
+Java | Spring Boot | REST APIs | Git-Github | PostgreSQL | JPQL
 
 🚀 My goal is to become a Senior Backend Developer and work on scalable systems.
 
