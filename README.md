@@ -21,8 +21,5 @@ Projeto	Descrição	Tech
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 🌎 Onde me encontrar
 <p align="center"> <a href="https://www.linkedin.com/in/yannick-d%C3%A1vila-542a16307/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF0000"/> </a> <a href="mailto:davilayannick@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/> </a> </p>
-💀 Filosofia
-
-“Código limpo é bom. Código escalável é obrigatório.” 🚀
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/> </p>
