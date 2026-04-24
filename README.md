@@ -1,79 +1,52 @@
-  # 🚀🔥 BEM-VINDO AO MEU UNIVERSO 🔥🚀
+🚀 Hey, I'm Yannick!
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Developer+%7C+Java+%7C+Spring;Always+Learning+New+Technologies" alt="Typing SVG" /> </p>
+🧠 About Me
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=SEU_NOME_AQUI&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-</p>
+💻 Software Engineering student
+🔥 Focused on Backend Development
+📚 Currently learning Spring Boot, APIs REST, JPA, Docker & Testing
+⚡ Always exploring new technologies and improving my skills
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Code+is+Poetry;Always+Learning+🚀"/>
-</p>
+🌐 Connect with me
+<p align="left"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
----
+📧 Email: your-email@gmail.com
 
-## 🧠 Sobre mim
+🛠️ Tech Stack
+🚀 Backend
 
-```ts
-const dev = {
-  nome: "Seu Nome",
-  foco: "Criar coisas absurdamente boas",
-  stack: ["JavaScript", "TypeScript", "React", "Node.js"],
-  status: "Transformando café em código ☕",
-};
-```
 
----
 
-## ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,git,github,docker,vscode&theme=dark" />
-</p>
 
----
 
-## 📊 Stats que impressionam
+💾 Database
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0d1117"/>
-</p>
+⚙️ Tools
 
----
 
-## 🧩 Projetos Insanos
 
-| Projeto      | Descrição           | Tech           |
-| ------------ | ------------------- | -------------- |
-| 🚀 Projeto X | Algo revolucionário | React, Node    |
-| 🤖 AI Tool   | Automação braba     | Python, OpenAI |
-| 🌐 SaaS      | Produto escalável   | Next.js        |
 
----
 
-## 🐍 Contribuições em forma de arte
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&bg_color=000000&title_color=FF0000&icon_color=FF0000"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical&bg_color=000000&title_color=FF0000"/> </p>
+🔥 Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=black-ice&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/> </p>
+🧩 Featured Projects
 
----
+🚧 Em construção... mas vem coisa pesada aí 👀
 
-## 🌎 Onde me encontrar
+🧠 Currently Learning
+Spring Boot & REST APIs
+JUnit + Mockito
+Docker & Containers
+Clean Architecture
+⚡ Fun Fact
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+Code. Break. Fix. Repeat. 🚀
 
----
-
-## 💀 Filosofia
-
-> “Código limpo é bom. Código absurdo é inesquecível.”
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
-</p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </p>
+💥 Final Touch
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/> </p>
