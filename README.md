@@ -1,47 +1,79 @@
-# 👋 I'm Yannick. Welcome to my profile!
+  # 🚀🔥 BEM-VINDO AO MEU UNIVERSO 🔥🚀
 
-💻 Backend Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=200&section=header&text=SEU_NOME_AQUI&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-Sou um desenvolvedor focado no ecossistema Java & Spring Boot, apaixonado por construir sistemas escaláveis e eficientes. Atualmente, estou cursando Engenharia de Software e aprofundando meus conhecimentos na criação de arquiteturas robustas para o Backend.
-
-Minha abordagem de desenvolvimento prioriza a integridade dos dados e a portabilidade do código, o que me levou a dominar ferramentas essenciais de persistência.
-
-Currently studying:
-- Java
-- Spring Boot
-- REST APIs
-- Docker
-- Git/GitHub
-- PostgreSQL
-
-Skills and Competencies:
-
-Java | Spring Boot | REST APIs | Git-Github | PostgreSQL | JPQL
-
-🚀 My goal is to become a Senior Backend Developer and work on scalable systems.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Code+is+Poetry;Always+Learning+🚀"/>
+</p>
 
 ---
 
-## 🛠️ Technologies
+## 🧠 Sobre mim
 
-My Skills:
-
-<div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Java-Dark.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Spring-Dark.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Git.svg" height="50" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="50" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="50" />
-  
-</div>
-
+```ts
+const dev = {
+  nome: "Seu Nome",
+  foco: "Criar coisas absurdamente boas",
+  stack: ["JavaScript", "TypeScript", "React", "Node.js"],
+  status: "Transformando café em código ☕",
+};
+```
 
 ---
 
-## 📫 Contact
+## ⚡ Tech Stack
 
-LinkedIn  
-https://www.linkedin.com/in/yannick-d%C3%A1vila-542a16307/
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,git,github,docker,vscode&theme=dark" />
+</p>
 
-Email  
-davilayannick07@gmail.com
+---
+
+## 📊 Stats que impressionam
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=0d1117"/>
+</p>
+
+---
+
+## 🧩 Projetos Insanos
+
+| Projeto      | Descrição           | Tech           |
+| ------------ | ------------------- | -------------- |
+| 🚀 Projeto X | Algo revolucionário | React, Node    |
+| 🤖 AI Tool   | Automação braba     | Python, OpenAI |
+| 🌐 SaaS      | Produto escalável   | Next.js        |
+
+---
+
+## 🐍 Contribuições em forma de arte
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌎 Onde me encontrar
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💀 Filosofia
+
+> “Código limpo é bom. Código absurdo é inesquecível.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=120&section=footer"/>
+</p>
