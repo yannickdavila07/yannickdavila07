@@ -2,6 +2,7 @@
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=200&section=header&text=YANNICK%20DAVILA&fontSize=40&fontColor=ffffff&animation=fadeIn"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+Scalable+APIs;Always+Learning+🚀"/> </p>
 🧠 Sobre mim
 
+
 Sou estudante de Engenharia de Software com foco em desenvolvimento backend.
 Atualmente, estou me aprofundando em Java, Spring Boot e construção de APIs REST, além de estudar boas práticas como arquitetura limpa, testes automatizados e uso de containers com Docker.
 
