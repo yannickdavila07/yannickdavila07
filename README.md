@@ -20,7 +20,7 @@ Projeto	Descrição	Tech
 🐍 Contribuições em forma de arte
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
 🌎 Onde me encontrar
-<p align="center"> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF0000"/> </a> <a href="mailto:seu-email@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/yannick-d%C3%A1vila-542a16307/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF0000"/> </a> <a href="mailto:seu-email@gmail.com"> <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF0000"/> </a> </p>
 💀 Filosofia
 
 “Código limpo é bom. Código escalável é obrigatório.” 🚀
