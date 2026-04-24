@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Yannick. Welcome to my profile!
+# 👋 I'm Yannick. Welcome to my profile!
 
 💻 Backend Developer
 
