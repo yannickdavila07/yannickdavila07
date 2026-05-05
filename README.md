@@ -12,8 +12,7 @@ Tenho como objetivo evoluir constantemente como desenvolvedor, criando aplicaç�
 
 ⚡ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,github,docker&theme=dark" /> </p>
-📊 Stats que impressionam
-<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yannickdavila07&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000"/> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical&hide_border=true&background=000000&ring=FF0000&fire=FF0000"/> </p>
+
 🧩 Projetos Insanos
 Projeto	Descrição	Tech
 🚀 API REST	API completa com autenticação	Java, Spring Boot, PostgreSQL
